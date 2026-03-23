@@ -6,33 +6,29 @@ I build the plumbing that makes crypto actually work — wallets, SDKs, cross-ch
 
 ## What I'm Known For
 
-**[WalletD](https://github.com/AslanPonies/walletd)** — Open-source multi-chain cryptocurrency wallet SDK built in Rust. Supports 10+ blockchains including Bitcoin, Ethereum, Solana, Monero, Hedera, ICP, Base L2, SUI, and ERC-20 tokens. Designed for developers who need unified key management and transaction signing across chains without vendor lock-in.
+**[WalletD SDK](https://github.com/AslanPonies/walletd-sdk)** — Open-source multi-chain cryptocurrency wallet SDK built in Rust. Unified CLI and library supporting Bitcoin (+ Lightning), Ethereum, Solana, Monero, Hedera, and ICP. HD wallet generation (BIP32/BIP39/BIP44), UTXO management, SegWit, SPL tokens, ring signatures — all through a single interface.
 
-**MyMonero** — Scaled the Monero light wallet infrastructure to **4M+ users**. Worked on the backend systems powering one of the most widely-used privacy-focused crypto wallets in the world.
+**[WalletD Core](https://github.com/AslanPonies/walletd)** — The foundational library powering the WalletD framework. Mnemonic generation/import, hierarchical deterministic wallet support, multi-chain extensibility.
 
-**GloBee** — Built payment processing infrastructure for cryptocurrency merchant services.
+**MyMonero** — Scaled the Monero light wallet infrastructure to **4M+ users**. Backend systems powering one of the most widely-used privacy-focused crypto wallets in the world.
+
+**GloBee** — Cryptocurrency payment processing infrastructure for merchant services.
 
 ## Tech I Work With
 
 ```
 Languages:    Rust · Python · TypeScript
 Blockchain:   Bitcoin · Ethereum · Solana · Monero · Hedera · ICP · Base L2 · SUI
+Crypto:       HD wallets · BIP32/39/44 · Ring signatures · UTXO · ERC-20 · SPL tokens
 Infra:        Docker · Linux/systemd · CI/CD · VPS deployment
-Integrations: REST APIs · CRM systems · messaging bridges · automation pipelines
 ```
 
-## What Drives Me
+## Background
 
-I'm drawn to hard problems at the intersection of cryptography and usability — making complex multi-chain operations feel simple for developers. I care about code that ships, systems that stay up, and documentation that doesn't lie.
-
-Previously COO at [Slaz Holdings](https://idlesword.com) (AI gaming studio, raised $1M+ with investors including Arrington Capital, Big Brain Holdings, and M2C Capital). I've operated across the full stack of building companies — from writing Rust to running fundraises — but the backend is where I come alive.
+Previously COO at Slaz Holdings (AI gaming studio). Raised $1M+ with investors including Arrington Capital, Big Brain Holdings, and M2C Capital. I've operated across the full stack of building companies — from writing Rust to running fundraises — but the backend is where I come alive.
 
 ## Get In Touch
 
 - 📍 Cape Town, South Africa
 - 💼 [LinkedIn](https://www.linkedin.com/in/patrizio-spitalieri/)
 - 📧 Open to remote opportunities in Rust, blockchain infrastructure, and wallet/SDK engineering
-
----
-
-*Currently open to backend engineering and technical leadership roles in crypto/web3.*

@@ -2,17 +2,13 @@
 
 **Rust · Blockchain Infrastructure · Multi-Chain Systems**
 
-I build the plumbing that makes crypto actually work — wallets, SDKs, cross-chain integrations, and the automation glue between them.
+I build the plumbing that makes crypto actually work: wallets, SDKs, cross-chain integrations, and the automation glue between them.
 
 ## What I'm Known For
 
 **[WalletD SDK](https://github.com/AslanPonies/walletd-sdk)** — Open-source multi-chain cryptocurrency wallet SDK built in Rust. Unified CLI and library supporting Bitcoin (+ Lightning), Ethereum, Solana, Monero, Hedera, and ICP. HD wallet generation (BIP32/BIP39/BIP44), UTXO management, SegWit, SPL tokens, ring signatures — all through a single interface.
 
 **[WalletD Core](https://github.com/AslanPonies/walletd)** — The foundational library powering the WalletD framework. Mnemonic generation/import, hierarchical deterministic wallet support, multi-chain extensibility.
-
-**MyMonero** — Scaled the Monero light wallet infrastructure to **4M+ users**. Backend systems powering one of the most widely-used privacy-focused crypto wallets in the world.
-
-**GloBee** — Cryptocurrency payment processing infrastructure for merchant services.
 
 ## Tech I Work With
 
@@ -29,6 +25,5 @@ Previously COO at Slaz Holdings (AI gaming studio). Raised $1M+ with investors i
 
 ## Get In Touch
 
-- 📍 Cape Town, South Africa
 - 💼 [LinkedIn](https://www.linkedin.com/in/patrizio-spitalieri/)
 - 📧 Open to remote opportunities in Rust, blockchain infrastructure, and wallet/SDK engineering
